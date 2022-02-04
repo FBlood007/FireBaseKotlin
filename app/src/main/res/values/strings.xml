@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireBaseTesting</string>
+    <string name="UserName">UserName</string>
+    <string name="UPassword">Password</string>
+    <string name="Login">login</string>
+    <string name="signup">signup</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+</resources>
